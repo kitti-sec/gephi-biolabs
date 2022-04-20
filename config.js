@@ -25,7 +25,7 @@ GexfJS.setParams({
             False for curved edges, true for straight edges
             this setting can't be changed from the User Interface
         */
-    edgeWidthFactor : 1,
+    edgeWidthFactor : 5,
         /*
             Change this parameter for wider or narrower edges
             this setting can't be changed from the User Interface
@@ -59,7 +59,7 @@ GexfJS.setParams({
             Show the id of the node in the list
             this setting can't be changed from the User Interface
         */
-    showEdgeArrow : true,
+    showEdgeArrow : false,
         /*
             Show the edge arrows when the edge is directed
             this setting can't be changed from the User Interface
